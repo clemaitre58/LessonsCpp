@@ -7,4 +7,5 @@ Following the current list :
 - Inline function
 - Object Oriented Programming (OOP) : class, strructure, private, public, constructor, destructor
 - Const operator
+- Inheritance
 
