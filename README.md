@@ -8,4 +8,4 @@ Following the current list :
 - Object Oriented Programming (OOP) : class, strructure, private, public, constructor, destructor
 - Const operator
 - Inheritance
-
+- Abstract class
